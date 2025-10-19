@@ -12,3 +12,9 @@
         - Unsupervised learning
         - Reinforcement learning
         - Generative AI
+---
+### Supervised learning
+
+- These ML systems are "supervised" in the sense that a human gives the ML system data with the known correct results.
+
+- Two of the most common use cases for supervised learning are regression and classification.
