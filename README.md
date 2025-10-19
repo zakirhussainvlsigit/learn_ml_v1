@@ -18,3 +18,8 @@
 - These ML systems are "supervised" in the sense that a human gives the ML system data with the known correct results.
 
 - Two of the most common use cases for supervised learning are regression and classification.
+
+
+$$
+\frac{\partial J}{\partial m} = -\frac{2}{N} \sum_{i=1}^{N} X_i \left( Y_i - \hat{Y}_i \right)
+$$
