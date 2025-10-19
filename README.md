@@ -20,6 +20,4 @@
 - Two of the most common use cases for supervised learning are regression and classification.
 
 
-$$
-\frac{\partial J}{\partial m} = -\frac{2}{N} \sum_{i=1}^{N} X_i \left( Y_i - \hat{Y}_i \right)
-$$
+
